@@ -8,9 +8,9 @@
 - 📫 How to reach me **fardinahosan@gmail.com**
 
 
-[![Facebook Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.linkedin.com/in/fardinahosan/)](https://www.linkedin.com/in/fardinahosan/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fardinahosan/)](https://www.linkedin.com/in/fardinahosan/)
+[![Gmail Badge](https://img.shields.io/badge/-fardinahosan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fardinahosan@gmail.com)](mailto:fardinahosan@gmail.com)
 
 ## ⚡ Technologies
 
