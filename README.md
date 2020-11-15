@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Knight Watcher**
 
-- 👨‍💻 All of my projects are available at fardin.cf/](http://fardin.cf/)
+- 👨‍💻 All of my projects are available at (http://fardin.cf/)
 
 - 📫 How to reach me **fardinahosan@gmail.com**
 
