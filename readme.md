@@ -73,7 +73,7 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/fardinahosancse&">
+    <a href="https://github.com/fardinahosancse">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinahosancse&theme=radical&border=7F3FBF&background=0D1117" alt="S.M.Fardin Ahosan's GitHub streak"/>
     </a>
   </p>
