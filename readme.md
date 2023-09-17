@@ -73,9 +73,11 @@
 ## Use To Code
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![Selenium](https://img.shields.io/badge/Selenium-F0DB4F?style=for-the-badge&labelColor=black&logo=selenium&logoColor=F0DB4F)
-![Postman](https://img.shields.io/badge/Postman-F0DB4F?style=for-the-badge&labelColor=black&logo=postman&logoColor=F0DB4F)
-![Jenkins](https://img.shields.io/badge/Jenkins-F0DB4F?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=F0DB4F)
 ![pytest](https://img.shields.io/badge/pytest-F0DB4F?style=for-the-badge&labelColor=black&logo=pytest&logoColor=F0DB4F)
+![Postman](https://img.shields.io/badge/Postman-F0DB4F?style=for-the-badge&labelColor=black&logo=postman&logoColor=F0DB4F)
+![Jira](https://img.shields.io/badge/Jira-F0DB4F?style=for-the-badge&labelColor=black&logo=jira&logoColor=F0DB4F)
+![REST Assured](https://img.shields.io/badge/REST-Assured-F0DB4F?style=for-the-badge&labelColor=black&logo=rest-assured&logoColor=F0DB4F)
+
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
