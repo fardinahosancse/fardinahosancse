@@ -86,14 +86,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/fardinahosancse&">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinahosancse&theme=radical&border=7F3FBF&background=0D1117" alt="S.M.Fardin Ahosan's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinahosancse&theme=radical" alt="S.M.Fardin Ahosan's GitHub Contribution"/>
   </a>
 </p>
 
