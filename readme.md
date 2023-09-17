@@ -72,16 +72,13 @@
 
 ## Use To Code
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
-![Selenium](https://img.shields.io/badge/Selenium-F0DB4F?style=for-the-badge&labelColor=black&logo=selenium&logoColor=F0DB4F)
+![Selenium](https://img.shields.io/badge/Selenium-3C873A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=3C873A)
 ![pytest](https://img.shields.io/badge/pytest-F0DB4F?style=for-the-badge&labelColor=black&logo=pytest&logoColor=F0DB4F)
-![Postman](https://img.shields.io/badge/Postman-F0DB4F?style=for-the-badge&labelColor=black&logo=postman&logoColor=F0DB4F)
-![Jira](https://img.shields.io/badge/Jira-F0DB4F?style=for-the-badge&labelColor=black&logo=jira&logoColor=F0DB4F)
-![REST Assured](https://img.shields.io/badge/REST-Assured-F0DB4F?style=for-the-badge&labelColor=black&logo=rest-assured&logoColor=F0DB4F)
-
-
+![Postman](https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&labelColor=black&logo=postman&logoColor=E34F26)
+![Jira](https://img.shields.io/badge/Jira-0078d7?style=for-the-badge&labelColor=black&logo=jira&logoColor=0078d7)
+![REST Assured](https://img.shields.io/badge/REST-Assured-4EA94B?style=for-the-badge&labelColor=black&logo=rest-assured&logoColor=4EA94B)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
