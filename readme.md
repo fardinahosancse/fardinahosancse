@@ -71,24 +71,27 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/fardinahosancse&">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinahosancse&theme=radical&border=7F3FBF&background=0D1117" alt="S.M.Fardin Ahosan's GitHub streak"/>
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/fardinahosancse&">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinahosancse&theme=radical&border=7F3FBF&background=0D1117" alt="S.M.Fardin Ahosan's GitHub streak"/>
+    </a>
+  </p>
 
-<p align="center">
+  <p>
+    <a href="https://github.com/fardinahosancse">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinahosancse&theme=radical" alt="S.M.Fardin Ahosan's GitHub Contribution"/>
+    </a>
+  </p>
+
+  <a href="https://github.com/fardinahosancse"> 
+    <img alt="S.M.Fardin Ahosan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fardinahosancse&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="700px"/>
+  </a>
+
   <a href="https://github.com/fardinahosancse">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardinahosancse&theme=radical" alt="S.M.Fardin Ahosan's GitHub Contribution"/>
+    <img alt="S.M.Fardin Ahosan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fardinahosancse&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="700px"/>
   </a>
-</p>
-
-<a align="center"> 
-    <a  href="https://github.com/fardinahosancse"><img alt="S.M.Fardin Ahosan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fardinahosancse&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="700px"/></a>
-
-  <a href="https://github.com/fardinahosancse"><img alt="S.M.Fardin Ahosan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fardinahosancse&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="700px"/></a>
   <br/>
-</a>
 
-
-![S.M.Fardin Ahosan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fardinahosancse&custom_title=S.M.%20FardinAhosan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fardinahosancse&custom_title=S.M.%20FardinAhosan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="S.M.Fardin Ahosan's Graph"/>
+</div>
