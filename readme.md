@@ -80,14 +80,11 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/Selenium-Python-Hybrid-Framework-Practice-Project)
 
-[![Fardin Folio](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=fardin-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/Portfolio_Inspired_by_leerob.io)
 
-[![Fardin Readme](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=fardinahosancse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/fardinahosancse)
+[![Fardin Readme](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=readme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/fardinahosancse)
 
-[![Fardin Teminal](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=
-Selenium-Python-Basic-to-Architect-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/Selenium-Python-Basic-to-Architect-)
+[![Fardin Teminal](https://github-readme-stats.vercel.app/api/pin/?username=fardinahosancse&repo=selenium-python-basic-to-architect&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/fardinahosancse/Selenium-Python-Basic-to-Architect-)
 
 <p align="left">
   <a href="https://github.com/fardinahosancse?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
