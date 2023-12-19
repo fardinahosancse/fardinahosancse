@@ -39,7 +39,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Focused on discovering and addressing software defects while also dedicated to crafting automation solutions.<br/><br/>
  📧 &emsp; Reach me anytime: fardinahosan@outlook.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](mailto:fardinahosan@outlook.com)
+ 💬 &emsp; Ask me about anything [here](mailto:fardinahosan@gmail.com)
 
 </p>
 
