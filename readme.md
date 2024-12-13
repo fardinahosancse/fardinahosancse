@@ -48,7 +48,7 @@
 <br/>
 
 ## Use To Code
-![Playwright](https://img.shields.io/badge/Playwright-F0DB4F?style=for-the-badge&labelColor=black&logo=playwright&logoColor=F0DB4F)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-F0DB4F?style=for-the-badge&labelColor=black&logo=typescript&logoColor=F0DB4F)
 ![k6](https://img.shields.io/badge/k6-F0DB4F?style=for-the-badge&labelColor=black&logo=k6&logoColor=F0DB4F)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
