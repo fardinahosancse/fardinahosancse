@@ -49,10 +49,10 @@
 
 ## Use To Code
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-F0DB4F?style=for-the-badge&labelColor=black&logo=typescript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-F0DB4F?style=for-the-badge&labelColor=black&logo=k6&logoColor=F0DB4F)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3C873A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=3C873A)
 ![pytest](https://img.shields.io/badge/pytest-F0DB4F?style=for-the-badge&labelColor=black&logo=pytest&logoColor=F0DB4F)
 ![Postman](https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&labelColor=black&logo=postman&logoColor=E34F26)
